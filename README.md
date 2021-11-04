@@ -8,6 +8,4 @@ You can click the Preview link to take a look at your changes.
 --->
 <p align= "center">
   <img src= "https://github.com/marcinzygan/marcinzygan/blob/main/monkey.png" >
-  <br>
-  <img src=  "https://github-readme-stats.vercel.app/api/top-langs/?username=marcinzygan&&theme=dark&layout=compact" > 
 </p>

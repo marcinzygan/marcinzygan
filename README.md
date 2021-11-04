@@ -7,7 +7,7 @@ marcinzygan/marcinzygan is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <p align= "center">
-  <img src= "https://avatars.githubusercontent.com/u/92818055?s=96&v=4" >
+  <img src= "https://github.com/marcinzygan/marcinzygan/blob/main/monkeystreamicon.png" >
   <br>
   <img src=  "https://github-readme-stats.vercel.app/api/top-langs/?username=marcinzygan&&theme=dark&layout=compact" > 
 </p>

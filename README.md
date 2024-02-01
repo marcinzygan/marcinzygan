@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ```javascript
-const marcin = {
+const marcinzygan = {
     askMeAbout: ["web dev", "design", "game"],
     technologies: {
         frontEnd: ["HTML", "CSS", "Next.js", "React", ],

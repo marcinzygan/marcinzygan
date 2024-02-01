@@ -19,7 +19,6 @@ const marcin = {
         databases: ["MongoDB"],
         deign:["Figma" , "Adobe Illustrator" , "Adobe Photoshop"]
     }
-  findMeAt:[<a href="https://marcin-zygan.com">marcin-zygan.com</a>]
 };
 ```
 

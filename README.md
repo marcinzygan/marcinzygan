@@ -14,13 +14,12 @@ You can click the Preview link to take a look at your changes.
 const marcin = {
     askMeAbout: ["web dev", "design", "game"],
     technologies: {
-        frontEnd: {
-            js: ["Next.js", "React"],
-        },
+        frontEnd: ["HTML", "CSS", "Next.js", "React", ],
         backEnd: ["Node.js", "Express.js"],
         databases: ["MongoDB"],
         deign:["Figma" , "Adobe Illustrator" , "Adobe Photoshop"]
     }
+  findMeAt:[<a href="https://marcin-zygan.com">marcin-zygan.com</a>]
 };
 ```
 

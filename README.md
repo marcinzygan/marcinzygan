@@ -9,6 +9,7 @@ You can click the Preview link to take a look at your changes.
 <p align= "center">
   <img src= "https://github.com/marcinzygan/marcinzygan/blob/main/monkey.png" >
 </p>
+
 ```javascript
 const marcin = {
     askMeAbout: ["web dev", "design", "game"],
@@ -22,17 +23,4 @@ const marcin = {
     }
 };
 ```
-```javascript
-const charles = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "tech", "game"],
-    technologies: {
-        frontEnd: {
-            js: ["Vue", "React", "Angular"],
-            css: ["bootstrap", "sass"]
-        },
-        backEnd: ["Java", "PHP"],
-        databases: ["MySql", "oracle"],
-    }
-};
-```
+

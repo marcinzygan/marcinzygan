@@ -9,3 +9,16 @@ You can click the Preview link to take a look at your changes.
 <p align= "center">
   <img src= "https://github.com/marcinzygan/marcinzygan/blob/main/monkey.png" >
 </p>
+```javascript
+const marcin = {
+    askMeAbout: ["web dev", "design", "game"],
+    technologies: {
+        frontEnd: {
+            js: ["Next.js", "React"],
+        },
+        backEnd: ["Node.js", "Express.js"],
+        databases: ["MongoDB"],
+        deign:["Figma" , "Adobe Illustrator" , "Adobe Photoshop"]
+    }
+};
+```

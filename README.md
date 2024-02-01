@@ -11,7 +11,7 @@ const marcinzygan = {
     askMeAbout: ["web dev", "design", "game"],
     technologies: {
         frontEnd: ["HTML", "CSS", "Next.js", "React", ],
-        backEnd: ["Node.js", "Express.js"],
+        backEnd: ["Node.js", "Express"],
         databases: ["MongoDB"],
         deign:["Figma" , "Adobe Illustrator" , "Adobe Photoshop"]
     }

@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ```javascript
 const marcinzygan = {
-    askMeAbout: ["web dev", "design", "game"],
+    askMeAbout: ["web dev", "design", "running" , "kite-surfing"],
     technologies: {
         frontEnd: ["HTML", "CSS", "Next.js", "React"],
         backEnd: ["Node.js", "Express"],
